@@ -1,0 +1,22 @@
+<Program>
+    <Instruction>
+        <Command>LOAD</Command>
+        <A>73</A>
+        <B>898</B>
+    </Instruction>
+    <Instruction>
+        <Command>READ</Command>
+        <A>221</A>
+        <B>939</B>
+    </Instruction>
+    <Instruction>
+        <Command>WRITE</Command>
+        <A>148</A>
+        <B>739</B>
+    </Instruction>
+    <Instruction>
+        <Command>POPCNT</Command>
+        <A>131</A>
+        <B>550</B>
+    </Instruction>
+</Program>

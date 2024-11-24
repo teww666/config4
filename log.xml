@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Log><Instruction><Command>LOAD</Command><A>73</A><B>898</B><Hex>0x49820300</Hex></Instruction><Instruction><Command>READ</Command><A>221</A><B>939</B><Hex>0xDDAB0300</Hex></Instruction><Instruction><Command>WRITE</Command><A>148</A><B>739</B><Hex>0x94E30200</Hex></Instruction><Instruction><Command>POPCNT</Command><A>131</A><B>550</B><Hex>0x83260200</Hex></Instruction></Log>
